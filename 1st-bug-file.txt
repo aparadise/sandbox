@@ -1,1 +1,3 @@
 1st bug file made
+
+i am adding a 2nd bug from bug branch
